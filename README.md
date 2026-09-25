@@ -23,6 +23,7 @@
 
 | Project | Description |
 |---|---|
+| [CoPaint AI](https://copaint-ai.vercel.app/) ↗ Live | AI-assisted collaborative canvas — draw by hand, by typed command, or by voice, with a multi-agent (LangGraph) pipeline planning and generating scenes |
 | [ai-email-agent](https://github.com/anuragsrawat/ai-email-agent) | AI agent that categorizes, prioritizes, summarizes & queries emails using an LLM (FastAPI + Gemini) |
 | [insureAI](https://github.com/anuragsrawat/insureAI) | Predicts insurance charges from age, BMI, smoking status & region using ML (Linear Regression, Ridge, XGBoost) with a Streamlit frontend |
 | [smart-attendance-management](https://github.com/anuragsrawat/smart-attendance-management) | Geolocation + pattern-based attendance system — teachers generate a pattern, students replicate & share location |
