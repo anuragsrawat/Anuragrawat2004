@@ -1,14 +1,35 @@
-👋 Hi, I’m @Anuragrawat2004
+<p align="center">
+  <img src="game.gif" alt="anuragsrawat's contribution graph as a space shooter game" />
+</p>
 
-👀 I’m interested in exploring cutting-edge technologies and creating innovative solutions.
+<h1 align="center">Hi, I'm Anurag Rawat 👋</h1>
 
-🌱 I’m currently enhancing my skills in frontend web development and working on projects involving Node.js, MongoDB, and Multer.
+<p align="center">
+  Building AI-powered tools & full-stack projects — one commit at a time.
+</p>
 
-💞️ I’m looking to collaborate on impactful open-source projects, web development initiatives, and smart system designs like attendance management systems.
+<p align="center">
+  <a href="https://anuragsrawat.github.io"><img src="https://img.shields.io/badge/Portfolio-anuragsrawat.github.io-blue?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/anurag-rawat-161574244/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
-📫 How to reach me: Feel free to message me on GitHub or connect with me on LinkedIn.
+---
 
-😄 Pronouns: He/Him
+### 🚀 Pinned Projects
 
-⚡ Fun fact: I'm a passionate singer and chess enthusiast, always up for a melody or a strategic challenge!
+| Project | Description |
+|---|---|
+| [ai-email-agent](https://github.com/anuragsrawat/ai-email-agent) | AI agent that categorizes, prioritizes, summarizes & queries emails using an LLM (FastAPI + Gemini) |
+| [insureAI](https://github.com/anuragsrawat/insureAI) | Predicts insurance charges from age, BMI, smoking status & region using ML (Linear Regression, Ridge, XGBoost) with a Streamlit frontend |
+| [smart-attendance-management](https://github.com/anuragsrawat/smart-attendance-management) | Geolocation + pattern-based attendance system — teachers generate a pattern, students replicate & share location |
+| [chat-sphere](https://github.com/anuragsrawat/chat-sphere) | Real-time chat application |
 
+---
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=anuragsrawat&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
