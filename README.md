@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="game.gif" alt="anuragsrawat's contribution graph as a space shooter game" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anuragsrawat/anuragsrawat/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anuragsrawat/anuragsrawat/output/snake.svg" />
+    <img alt="a snake eating anuragsrawat's contribution graph" src="https://raw.githubusercontent.com/anuragsrawat/anuragsrawat/output/snake.svg" />
+  </picture>
 </p>
 
 <h1 align="center">Hi, I'm Anurag Rawat 👋</h1>
